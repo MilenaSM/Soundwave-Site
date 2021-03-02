@@ -1,11 +1,9 @@
 <h1 align="center">
   <img src="/images/logo.png" width="350" title="soundwave">
-</h1>
-<p align="center">
 
 ![Badge](https://img.shields.io/badge/HTML5-black--blue) ![Badge](https://img.shields.io/badge/CSS3-informational) ![Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
 
-</p>
+</h1>
 
 ## Layout do Soundwave :art:
 
