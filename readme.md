@@ -7,13 +7,13 @@
 
 </p>
 
-## Layout do Soundwave
+## Layout do Soundwave :art:
 
 <p align="center">
   <img src="/images/layout.png"  title="layout">
 </p>
 
-## Descrição
+## Descrição :pencil2:
 
 <p align="justify"> Design do site feito em HTML e CSS responsivo. Esse site possui uma página de aprensentação, uma de reprodução de músicas e um último de cadastro. </p>
 
