@@ -1,17 +1,7 @@
-<h1 align="center"> Soundwave 
+<h1 align="center"> Soundwave <br />
   <img src="/images/logo.png" width="350" title="soundwave">
 </h1>
-
-## Layout do Soundwave
-
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
-
-## Descrição
-
-<p align="justify"> Design do site feito em HTML e CSS responsivo. Esse site possui uma página de aprensentação, uma de reprodução de músicas e um último de cadastro. </p>
 
 ![Badge](https://img.shields.io/badge/HTML5-black--blue)
 
@@ -19,7 +9,21 @@
 
 ![Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
 
-### Listas não ordenadas
+</p>
+
+## Layout do Soundwave
+
+<p align="center">
+  <img src="/images/layout.png" width="350" title="layout">
+</p>
+
+## Descrição
+
+<p align="justify"> Design do site feito em HTML e CSS responsivo. Esse site possui uma página de aprensentação, uma de reprodução de músicas e um último de cadastro. </p>
+
+<br />
+
+### Implementações :bulb:
 
 - Responsivo para celulares e tablets.
 
@@ -27,16 +31,17 @@
 
 > Status do Projeto: Em desenvolvimento :warning:
 
-## Como clonar a aplicação :runner:
+## Como clonar a aplicação :file_folder:
 
 - No terminal, clone o projeto:
-  -git clone https://github.com/MilenaSM/Soundwave-Site
+
+`git clone https://github.com/MilenaSM/Soundwave-Site`
 
 - Entre na pasta do projeto:
 
-  - cd Soundwave-Site
+`cd Soundwave-Site`
 
-<p>Pronto, agora você possui um clone e pode modificar os arquivos</p>
+<p>Pronto, agora você possui uma cópia e pode modificar os arquivos</p>
 
 <br />
 
