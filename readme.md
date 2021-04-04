@@ -1,4 +1,5 @@
 <h1 align="center">
+<<<<<<< HEAD
   <img src="/images/logo.png" width="350" title="soundwave">
 </h1>
 <p align="center">
@@ -6,14 +7,21 @@
 ![Badge](https://img.shields.io/badge/HTML5-black--blue) ![Badge](https://img.shields.io/badge/CSS3-informational) ![Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
 
 </p>
+=======
+  <img src="/images/logo.png" width="350" title="soundwave"> <br />
 
-## Layout do Soundwave
+![Badge](https://img.shields.io/badge/HTML5-black--blue) ![Badge](https://img.shields.io/badge/CSS3-informational) ![Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
+
+</h1>
+>>>>>>> 26692789a0778e05313e2df24b9919e023e6abdb
+
+## Layout do Soundwave :art:
 
 <p align="center">
   <img src="/images/layout.png"  title="layout">
 </p>
 
-## Descrição
+## Descrição :pencil2:
 
 <p align="justify"> Design do site feito em HTML e CSS responsivo. Esse site possui uma página de aprensentação, uma de reprodução de músicas e um último de cadastro. </p>
 
